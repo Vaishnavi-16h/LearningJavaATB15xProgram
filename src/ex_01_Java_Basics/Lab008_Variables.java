@@ -89,6 +89,22 @@ public class Lab008_Variables
         // Pramod -> p,r,a,m,o,d - chars-  String is bunch of chars.
 
 
+        //Ex 10.........................................................
+        int aa = 10;
+        byte bb = 10;
+        short sss = 10;
+        long ll = 9876543210L;
+        float ff = 3.14F;
+        double dd = 67.8987654567;
+        boolean b1 = true;
+        char cc = 'A';
+
+
+        //Ex 11..........................................................
+        int a_ = 10, b_ = 23, c_ = 90;
+        int __ = 10, $$ = 34;
+
+
 
     }
 
