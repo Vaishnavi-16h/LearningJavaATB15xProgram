@@ -1,4 +1,4 @@
-package OOPs;
+package OOPs_Part1;
 
 public class Lab004_OOPs
 {
