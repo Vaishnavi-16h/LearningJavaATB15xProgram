@@ -1,4 +1,4 @@
-package task;
+package task1;
 
 public class Nested_Ternary_eg1
 {

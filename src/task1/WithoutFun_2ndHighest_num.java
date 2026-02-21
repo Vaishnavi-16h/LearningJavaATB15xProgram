@@ -1,4 +1,4 @@
-package task;
+package task1;
 
 public class WithoutFun_2ndHighest_num
 {
